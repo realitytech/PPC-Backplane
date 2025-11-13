@@ -14,3 +14,7 @@ Pullups on A8-A16, these seem to be not needed on all units.
 Pullups on D0-D7 are optional, both units I have here already have these on the board.
 
 The plan is to move to 74xxx16245 chips to keep to two chips but buffer ALL lines.
+
+Licence/Useage:
+Please credit the source. This is a non-commercial project and you may do with it as you wish for PERSONAL USE ONLY
+Commercial use is strictly forbidden.
